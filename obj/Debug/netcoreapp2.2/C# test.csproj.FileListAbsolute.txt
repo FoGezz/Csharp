@@ -1,0 +1,11 @@
+C:\Users\Daniil\Documents\C# test\bin\Debug\netcoreapp2.2\C# test.deps.json
+C:\Users\Daniil\Documents\C# test\bin\Debug\netcoreapp2.2\C# test.runtimeconfig.json
+C:\Users\Daniil\Documents\C# test\bin\Debug\netcoreapp2.2\C# test.runtimeconfig.dev.json
+c:\Users\Daniil\Documents\C# test\bin\Debug\netcoreapp2.2\C# test.dll
+c:\Users\Daniil\Documents\C# test\bin\Debug\netcoreapp2.2\C# test.pdb
+c:\Users\Daniil\Documents\C# test\obj\Debug\netcoreapp2.2\C# test.csprojAssemblyReference.cache
+c:\Users\Daniil\Documents\C# test\obj\Debug\netcoreapp2.2\C# test.csproj.CoreCompileInputs.cache
+c:\Users\Daniil\Documents\C# test\obj\Debug\netcoreapp2.2\C# test.AssemblyInfoInputs.cache
+c:\Users\Daniil\Documents\C# test\obj\Debug\netcoreapp2.2\C# test.AssemblyInfo.cs
+c:\Users\Daniil\Documents\C# test\obj\Debug\netcoreapp2.2\C# test.dll
+c:\Users\Daniil\Documents\C# test\obj\Debug\netcoreapp2.2\C# test.pdb
